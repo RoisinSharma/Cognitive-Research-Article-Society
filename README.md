@@ -13,7 +13,7 @@ For more details or to get involved, contact Róisín (rs843@sussex.ac.uk).
 #### Our aim is increase engagement in cognitive science: This is a collaborative learning environment designed to help you feel comfortable to go outside your comfort zone and gain confidence in engaging in academic discussions.
 So please note, there are no prerequisites for this society: this is a society for anyone who is interested in cognitive science. Please do not feel that you have to already have a specific level of knowledge or skills to join. This society is fun specifically because it attracts people with naturally different knowledge and ideas, sparking interesting conversations! After-all, we need discrepancies in understanding for teaching and learning.
 <br>
-
+<br>
 
 #### Overall aims and objectives:
 
@@ -22,19 +22,13 @@ So please note, there are no prerequisites for this society: this is a society f
 -   Develop academic skills in critical thinking and theoretical knowledge. This will mainly come from practice in forming ideas about cognitive research articles and effectively articulating this to others.
 
 -   For those interested in a career path in cognitive science, this can also be a space to gain encouragement and feel excited about pursuing a professional identity as a cognitive researcher, by developing complimenting soft and hard skills, and gaining networking opportunities when we go to seminars.
-  
-<br>
 
 #### Specific activities:
 
 -   Each fortnite in the evening, meeting to discuss a designated research article to chat and have debates about. We can rotate who chooses this paper to whoever would like to each time.
-    
-
   
 
 -   Gain insight into the world of cognitive science academia together through organised visits e.g. cognitive symposiums, such as those the Center For Cognitive Science (COGS) hosts.
-
-
 
 -   Organising symposiums in which any member has the opportunity to host a small presentation about an overarching theme.
 ---
