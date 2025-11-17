@@ -51,7 +51,7 @@ So please note, this is a society for anyone who is interested in cognitive scie
 
   
 
-- Each fortnite, we meet on-campus to discuss a designated research article. We rotate who chooses this paper on a volunteer basis. It is the responsibility of this person to provide a brief overview and rationale for their selection at the meet.
+- Each fortnight, we meet on-campus to discuss a designated research article. We rotate who chooses this paper on a volunteer basis. It is the responsibility of this person to provide a brief overview and rationale for their selection at the meet.
 
 - CRAS symposiums in which all members have the opportunity to present a short talk relating to an overarching theme.
 
