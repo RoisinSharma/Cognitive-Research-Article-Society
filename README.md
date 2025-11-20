@@ -61,10 +61,10 @@ All members are welcome to present a paper! We will rotate this role each meet o
 -  **Responsibilities of presenter:**
 
 
-- Within a week of the previous meet, provide the next paper alongside some planned questions. This will be shared on the discord channel. Each member is then free to contribute to the planned questions.
+	- Within a week of the previous meet, provide the next paper alongside some planned questions. This will be shared on the discord channel. Each member is then free to contribute to the planned questions.
 
 
-- At the meet, provide an initial synopsis of the paper and explain the rationale behind your selection.
+	- At the meet, provide an initial synopsis of the paper and explain the rationale behind your selection.
 
 
 ### Asking good questions
