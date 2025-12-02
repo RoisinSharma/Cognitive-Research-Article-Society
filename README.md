@@ -101,7 +101,7 @@ For inspiration...
 ---
 
 ### Further resources for cognitive science at the University of Sussex:
-If you're part of the University of Sussex and would like to be added to the mailing list for any of these academic groups, contact contact Róisín (rs843@sussex.ac.uk). 
+If you're part of the University of Sussex and would like to be added to the mailing list for any of these academic groups, contact Róisín (rs843@sussex.ac.uk). 
 
 
 -  **Centre for Cognitive Science (COGS)** is a pioneering cognitive research center at our university. They host regular academic seminars, which are great for gaining insight into this academic environment. Anyone is welcome to go. For inquiries, you can email Simon Bowes using the address below. 
