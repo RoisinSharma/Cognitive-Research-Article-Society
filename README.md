@@ -83,11 +83,11 @@ For inspiration...
 
 ### Further resources for cognitive science at the University of Sussex:
 
-If you're part of the University of Sussex and would like to be added to the mailing list for any of these academic groups, contact Róisín ([rs843\@sussex.ac.uk](mailto:rs843@sussex.ac.uk){.email}).
+If you're part of the University of Sussex and would like to be added to the mailing list for any of these academic groups, contact Róisín ([rs843\@sussex.ac.uk](mailto:rs843@sussex.ac.uk)).
 
 -   **Centre for Cognitive Science (COGS)** is a pioneering cognitive research center at our university. They host regular academic seminars, which are great for gaining insight into this academic environment. Anyone is welcome to go. For inquiries, you can email Simon Bowes using the address below.
 
-    -   [S.C.Bowes\@sussex.ac.uk](mailto:S.C.Bowes@sussex.ac.uk){.email}
+    -   [S.C.Bowes\@sussex.ac.uk](mailto:S.C.Bowes@sussex.ac.uk)
     -   <https://www-sussex-ac-uk.sussex.idm.oclc.org/cogs/index>
 
 -   **Reality Bending Lab** is a neuropsychological lab in the department of Psychology that investigates reality and its distortions. You can find out more about their research led by Dominique Makowski, and read their blog pages on their website.
@@ -101,11 +101,11 @@ If you're part of the University of Sussex and would like to be added to the mai
 
 -   **Cognitive, Neuroscience and Imaging (CNI) Seminars** are linked to the Sussex Neuroscience Seminars but operate as their own series, focusing on research developments in cognitive neuroscience. They usually run weekly and cover a wide range of research happening at the university. For inquiries, you can email Chris Bird using the address below.
 
-    -   [Chris.Bird\@sussex.ac.uk](mailto:Chris.Bird@sussex.ac.uk){.email}
+    -   [Chris.Bird\@sussex.ac.uk](mailto:Chris.Bird@sussex.ac.uk)
 
 -   **Psychology Colloquiums** are held every Thursday lunchtime. Speakers from other universities and our own department of Psychology share their pioneering work. For inquiries, you can email Reny Baykova using the address below.
 
-    -   [R.Baykova\@sussex.ac.uk](mailto:R.Baykova@sussex.ac.uk){.email}
+    -   [R.Baykova\@sussex.ac.uk](mailto:R.Baykova@sussex.ac.uk)
 
 -   **Sussex AI** Is a multidisciplinary center of excellence that investigates a range of AI-related topics from a quintessentially Sussex angle, reflecting the mass of technical and domain knowledge we hold. They host fascinating seminars on work being done that at the frontier of AI research.
 
